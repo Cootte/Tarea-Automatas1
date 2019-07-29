@@ -1,0 +1,6 @@
+program prueba{
+marge x = 'hola_mundo';
+maggie x;
+homero mauri_sapee = true;
+alegria (mauri_sapee<) 
+}

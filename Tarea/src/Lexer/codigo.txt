@@ -1,0 +1,3 @@
+personaje bart num
+num springfield 8
+kwik $num  
